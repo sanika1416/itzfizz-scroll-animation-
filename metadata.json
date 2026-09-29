@@ -1,0 +1,6 @@
+{
+  "name": "Itzfizz Digital | Scroll-Driven Hero",
+  "description": "Scroll-driven interactive agency hero animation built with React, GSAP, and ScrollTrigger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
